@@ -1,8 +1,8 @@
 {
-"survey_title": "BeeTV on Facebook",  
-"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
+"survey_title": "UnlockMyTV",  
+"survey_content": "Visit our website to receive the latest news",  
 "survey_type": "Visit",  
-"survey_link": "https://www.facebook.com/beetvmovies/",  
+"survey_link": "https://www.unlockmytv.com",  
 "left_menu_image":"https://i.imgur.com/Ds2h7HS.png",  
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
