@@ -6,7 +6,7 @@
 "left_menu_image":"https://i.imgur.com/Ds2h7HS.png", 
 "content_not_support_audio":"This movie has audio which is not supported by UnlockMyTV, please install VLC player to play audio.",  "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"Update version 1.2.6<br></br>",  
