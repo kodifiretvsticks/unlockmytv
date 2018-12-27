@@ -14,8 +14,8 @@
 "update_version":"1.2.6",  
 "update_link":"https://unlockmytv.com/firetv/tv3.apk",  
 "update_link_android4":"https://unlockmytv.com/firetv/tv3.apk",
-"pkg_uninstall":"my.free.streams",  
-"pkg_uninstall_content":"Please uninstall the old version",
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"",
 "http_config":"https",
 "ads_priority":""  
 }
