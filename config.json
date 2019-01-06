@@ -7,7 +7,7 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"App Releases",  
 "update_content":"App version 3.1.4</br><br></br><br>- Add some link providers.</br><br></br><br>App version 3.1.3</br><br></br><br>- Add many HD direct links, Google Video and Fbcdn(fast link)</br><br>- Fix bugs.</br><br></br><br>",  
