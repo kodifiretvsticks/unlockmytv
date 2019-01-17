@@ -17,7 +17,7 @@
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
-"ads_priority":"amazon",
+"ads_priority":"",
 "enable_install_player":false,
 "title_player":"",
 "description_player":"",
