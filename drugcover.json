@@ -1,9 +1,9 @@
 {
-"survey_title": "BeeTV on Facebook",  
-"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
-"survey_type": "Visit",  
-"survey_link": "https://www.facebook.com/beetvmovies/",  
-"left_menu_image":"https://i.imgur.com/osIEpgc.png",  
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
+"left_menu_image":"",  
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
 "update_isforce":true,  
@@ -17,10 +17,10 @@
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
-"ads_priority":"amazon",
-"enable_install_player":true,
+"ads_priority":"",
+"enable_install_player":false,
 "title_player":"One Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming",
-"link_download_player":"amazon",
-"package_name_player":"amazon"
+"link_download_player":"",
+"package_name_player":""
 }
