@@ -3,30 +3,29 @@
 "survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
 "survey_type": "Visit",  
 "survey_link": "https://www.facebook.com/beetvmovies/",  
-"left_menu_image":"https://i.imgur.com/osIEpgc.png",  
+"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 2.1.6</br>
+<br>- Version: 2.1.9</br>
 <br>- Size: 15.5MB</br>
 <br>- Filelinked code: 30837432</br>
+<br>- FileDL code: 001478</br>
 <br>- Modded version(like Ad-free version) cant be auto updated. Please use official version(download at beetvapk.me) to support developer.</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Serieguide extension.</br>
-<br>- Add TV Calendar section.</br>
-<br>- Add Anime section.</br>
-<br>- Add search history.</br>
-<br>- Add uptostream link.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"22",  
-"update_version":"2.1.6",  
-"update_link":"https://archive.org/download/CinemaHD1.2.6/BeeTV_v2.1.5.apk",  
-"update_link_android4":"https://archive.org/download/CinemaHD1.2.6/BeeTV_v2.1.5.apk",
+<br>- Auto check autoplay next episode in setting.</br>
+<br>- Add ability to choose secondary language subtitle.</br>
+<br>- Fix eye icon not turn yellow for watched movie.</br>
+<br>- Sort stream links by size.</br>",  
+"update_build":"26",  
+"update_version":"2.1.9",  
+"update_link":"https://archive.org/download/BeeTVV2.1.8_201903/BeeTV_v2.1.8.apk",  
+"update_link_android4":"https://archive.org/download/BeeTVV2.1.8_201903/BeeTV_v2.1.8.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
@@ -34,6 +33,8 @@
 "enable_install_player":true,
 "title_player":"One Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
-"link_download_player":"https://dl.dropboxusercontent.com/s/tr9vaee35lsfxkt/OnePlayer_1.0.2r.apk",
-"package_name_player":"com.one.player"
+"link_download_player":"https://dl.dropboxusercontent.com/s/r3yifyqttx4gt84/OnePlayer_v1.0.6r.apk",
+"package_name_player":"com.one.player",
+"enable_amz":false,
+"oneplayer_version_build":"7" 
 }
