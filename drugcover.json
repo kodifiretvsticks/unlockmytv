@@ -9,20 +9,17 @@
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
-"update_title":"Update new version",  
+"update_title":"App Update",  
 "update_content":"<b>Release Info</b>
 <br>- Version: 2.2.0</br>
 <br>- Size: 15.5MB</br>
 <br></br>
 <br><b>Changelog</b></br>
-<br>- Auto check autoplay next episode in setting.</br>
-<br>- Add ability to choose secondary language subtitle.</br>
-<br>- Fix eye icon not turn yellow for watched movie.</br>
-<br>- Sort stream links by size.</br>",  
+<br>- Public Release</br>",  
 "update_build":"27",  
 "update_version":"2.2.0",  
-"update_link":"https://archive.org/download/BeeTVV2.1.8_201903/BeeTV_v2.1.8.apk",  
-"update_link_android4":"https://archive.org/download/BeeTVV2.1.8_201903/BeeTV_v2.1.8.apk",
+"update_link":"https://unlockmytv.com/beetv.apk",  
+"update_link_android4":"",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
