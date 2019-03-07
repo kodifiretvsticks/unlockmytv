@@ -20,8 +20,8 @@
 "update_version":"2.2.0",  
 "update_link":"https://unlockmytv.com/beetv.apk",  
 "update_link_android4":"",
-"pkg_uninstall":"me.bee.tvguide",  
-"pkg_uninstall_content":"Please uninstall old version",
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"",
 "http_config":"https",
 "ads_priority":"amazon",
 "enable_install_player":false,
@@ -30,5 +30,5 @@
 "link_download_player":"",
 "package_name_player":"",
 "enable_amz":false,
-"oneplayer_version_build":"7" 
+"oneplayer_version_build":"" 
 }
