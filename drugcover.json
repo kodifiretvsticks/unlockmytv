@@ -10,7 +10,9 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"App Update",  
-"update_content":"",  
+"update_content":"<b>Changelogs</b>
+<br>- Version: 2.2.0</br>
+<br>Public Release</br>",  
 "update_build":"26",  
 "update_version":"2.2.0",  
 "update_link":"https://unlockmytv.com/beetv.apk",  
@@ -18,7 +20,7 @@
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"",
 "http_config":"https",
-"ads_priority":"amazon",
+"ads_priority":"",
 "enable_install_player":false,
 "title_player":"",
 "description_player":"",
